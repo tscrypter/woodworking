@@ -20,7 +20,6 @@ The shoe bench carcas will be made of 9 pieces of hard maple.
 **The Cut List**  
 The carcas cut list is as follows:  
 | Quantity | Width | Depth | Height |
-
 |----------|-------|-------|--------|
 |     1    |   45" |  18"  |   1.5" |
 |     1    |   40" |  1.5" |   1.5" |
